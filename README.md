@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Movies
 - 📫 How to reach me: Telegram
 - 😄 Pronouns: A friend in need is a friend indeeed
-- ⚡ Fun fact: You have to kiss a lot of frogs to meet a prince
+- ⚡ Fun fact: You have to kiss a lot of frogs to meet a prince 
 -->
