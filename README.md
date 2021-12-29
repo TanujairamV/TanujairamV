@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <details>
   <summary><b>✌&nbsp;Support me</b></summary>
   <br/>
-    <a href="https://paypal.me/jinspalakkattu?locale.x=en_US">
+    <a href="https://paypal.me/Tanujairam?locale.x=en_US">
         <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" />
     </a>
 </details>
