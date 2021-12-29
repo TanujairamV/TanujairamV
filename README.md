@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   <br/>
   <a href="https://github.com/Tanujairam123">
     <p align="left">
-        <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=jinspalakkattu&theme=ayu-mirage&hide_border=true" />
+        <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanujairam123&theme=ayu-mirage&hide_border=true" />
     </p>
    </a>
 </details>
