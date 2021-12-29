@@ -20,13 +20,13 @@ Here are some ideas to get you started:
   <summary><b>🧍&nbsp;Connect with me</b></summary>
   <br/>
 <p align="left">
-    <a href="https://t.me/lnc3f3r">
+    <a href="https://t.me/Tanujairam">
         <img height="35px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png" />
     </a>    
     <a href="mailto:info@jmjsoft.net">
         <img height="35px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
     </a>
-    <a href="https://github.com/jinspalakkattu">
+    <a href="https://github.com/Tanujairam123">
         <img height="35px" src="https://img.icons8.com/ios-filled/50/000000/github.png" />
     </a>
 </p>
@@ -59,5 +59,5 @@ Here are some ideas to get you started:
 
 ### Contribution Graph:
 
-[![Jins Mathew's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=jinspalakkattu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/jinspalakkattu)
+[![Jins Mathew's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Tanujairam123&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/jinspalakkattu)
 
