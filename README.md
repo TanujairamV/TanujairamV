@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <details>
   <summary><b>⚙&nbsp;GitHub Statistics</b></summary>
   <br/>
-  <a href="https://github.com/jinspalakkattu">
+  <a href="https://github.com/Tanujairam123">
     <p align="left">
         <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=jinspalakkattu&theme=ayu-mirage&hide_border=true" />
     </p>
