@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 --> <h1 align="center">𝙃𝙞 𝙐𝙣𝙠𝙞𝙡! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px"> &nbsp; &nbsp; 𝕀'𝕞 𝕋𝕒𝕟𝕦𝕛𝕒𝕚𝕣𝕒𝕞</h1> <img align='right' src="https://media.giphy.com/media/T4tPJEgs2FEFq/giphy.gif?cid=ecf05e47qhbjlap43ddrrabq9fr2p627llne685nvyrb7drn&rid=giphy.gif&ct=s" width="230">
 <p align="left"> <a href="https://github.com/jinspalakkattu"><img src="https://komarev.com/ghpvc/?username=jinspalakkattu&label=Profile%20views&color=0e75b6&style=flat" alt="jinspalakkattu" /></a> </p>
 
+<br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Tanujairam123}/count.svg"/></p>
+
 <details>
   <summary><b>🧍&nbsp;Connect with me</b></summary>
   <br/>
