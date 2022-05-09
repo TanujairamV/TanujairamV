@@ -19,24 +19,17 @@ Here are some ideas to get you started:
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Tanujairam123}/count.svg"/></p>
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanujairam-TG&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php">
-<details>
-  <summary><b>⚙&nbsp;GitHub Statistics</b></summary>
-  <br/>
   <a href="https://github.com/Tanujairam123">
     <p align="left">
         <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanujairam123&theme=ayu-mirage&hide_border=true" />
     </p>
    </a>
 </details>
-
   <a href="https://github.com/Tanujairam-TG">
-    <p align="left">
+    <p align="center">
         <img height="175px" src="https://github-readme-stats.vercel.app/api?username=Tanujairam-TG&count_private=False&show_icons=true&title_color=30F229&icon_color=F2F407&text_color=F9F9F9&bg_color=1F222E&hide_border=true" /> 
     </p>
   </a> 
-
-
 ### Contribution Graph:
 
 [![Tanujairam contribute graph](https://activity-graph.herokuapp.com/graph?username=Tanujairam-TG&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/Tanjairam123)
-
