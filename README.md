@@ -23,24 +23,8 @@ Here are some ideas to get you started:
 
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanujairam-TG&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php">
 
-</p>
-<details>
-  <summary><b>🧍&nbsp;Connect with me</b></summary>
-  <br/>
-<p align="left">
-    <a href="https://t.me/Tanujairam">
-        <img height="35px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png" />
-    </a>    
-    <a href="mailto:info@jmjsoft.net">
-        <img height="35px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
-    </a>
-    <a href="https://github.com/Tanujairam123">
-        <img height="35px" src="https://img.icons8.com/ios-filled/50/000000/github.png" />
-    </a>
-</p>
-</details>
 
-<details>
+<detadededdetadetadededdetadededdetadetadetadetadededdetails>
   <summary><b>✌&nbsp;Support me</b></summary>
   <br/>
     <a href="https://paypal.me/Tanujairam?locale.x=en_US">
