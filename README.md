@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanujairam-TG&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php">
   <a href="https://github.com/Tanujairam123">
-    <p align="left">
-        <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanujairam123&theme=ayu-mirage&hide_border=true" />
-    </p>
+ 
    </a>
 </details>
   <a href="https://github.com/Tanujairam-TG">
