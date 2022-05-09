@@ -51,5 +51,5 @@ Here are some ideas to get you started:
 
 ### Contribution Graph:
 
-[![Jins Mathew's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Tanujairam-TG&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/Tanjairam123)
+[![Tanujairam contribute graph](https://activity-graph.herokuapp.com/graph?username=Tanujairam-TG&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/Tanjairam123)
 
