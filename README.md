@@ -13,11 +13,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Telegram
 - 😄 Pronouns: Friend in need is a friend indeed
 - ⚡ Fun fact: You have to kiss lot of frogs to meet a princess
---> <h1 align="center">𝙃𝙞 𝙐𝙣𝙠𝙞𝙡! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px"> &nbsp; &nbsp; 𝕀'𝕞 𝕋𝕒𝕟𝕦𝕛𝕒𝕚𝕣𝕒𝕞</h1> <img align='right' src="https://media.giphy.com/media/T4tPJEgs2FEFq/giphy.gif?cid=ecf05e47qhbjlap43ddrrabq9fr2p627llne685nvyrb7drn&rid=giphy.gif&ct=s" width="230">
+--> <h1 align="center">𝙃𝙞 𝙐𝙣𝙠𝙞𝙡! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="20px"> &nbsp; &nbsp; 𝕀'𝕞 𝕋𝕒𝕟𝕦𝕛𝕒𝕚𝕣𝕒𝕞</h1> <img align='right' src="https://media.giphy.com/media/T4tPJEgs2FEFq/giphy.gif?cid=ecf05e47qhbjlap43ddrrabq9fr2p627llne685nvyrb7drn&rid=giphy.gif&ct=s" width="230">
 
 <br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Tanujairam123}/count.svg"/></p>
+<p align="center">
 
+  <img src ="https://github-readme-stats.vercel.app/api?username=vincreator&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&include_all_commits=true&bg_color=00000000">
+
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=vincreator&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php">
+
+</p>
 <details>
   <summary><b>🧍&nbsp;Connect with me</b></summary>
   <br/>
