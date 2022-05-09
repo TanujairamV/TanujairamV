@@ -18,20 +18,7 @@ Here are some ideas to get you started:
 <br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Tanujairam123}/count.svg"/></p>
 <p align="center">
-
-  <img src ="https://github-readme-stats.vercel.app/api?username=Tanujairam-TG&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&include_all_commits=true&bg_color=00000000">
-
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanujairam-TG&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php">
-
-
-<detadededdetadetadededdetadededdetadetadetadetadededdetails>
-  <summary><b>✌&nbsp;Support me</b></summary>
-  <br/>
-    <a href="https://paypal.me/Tanujairam?locale.x=en_US">
-        <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" />
-    </a>
-</details>
-
 <details>
   <summary><b>⚙&nbsp;GitHub Statistics</b></summary>
   <br/>
