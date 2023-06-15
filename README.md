@@ -31,6 +31,3 @@ Here are some ideas to get you started:
   
   <a href="http://www.github.com/Tanujairam-Tg"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanujairam-Tg&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   
-### Contribution Graph:
-
-[![Tanujairam contribute graph](https://activity-graph.herokuapp.com/graph?username=Tanujairam-TG&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/Tanjairam123)
