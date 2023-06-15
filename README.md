@@ -25,9 +25,13 @@ Here are some ideas to get you started:
 </details>
   <a href="https://github.com/Tanujairam-TG">
     <p align="center">
-        <img height="175px" src="https://github-readme-stats.vercel.app/api?username=Tanujairam-TG&count_private=False&show_icons=true&title_color=30F229&icon_color=F2F407&text_color=F9F9F9&bg_color=1F222E&hide_border=true" /> 
+        <img height="175px" src="https://github-readme-stats.vercel.app/api?username=Tanujairam-TG&count_private=False&show_icons=true&title_color=30F229&icon_color=F2F407&text_color=F9F9F9&bg_color=1F222E&hide_border=true"
     </p>
   </a> 
   
-  <a href="http://www.github.com/Tanujairam-Tg"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanujairam-Tg&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <a href="http://www.github.com/Tanujairam-Tg">
+    <p allign="centre">
+    <img height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanujairam-Tg&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" 
+         </p>
+       </a>
   
