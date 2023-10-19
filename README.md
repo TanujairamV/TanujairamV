@@ -1,37 +1,33 @@
-### Hi i am Tanujairam 👋
+# Hi, I'm Tanujairam 👋
 
-<!--
-**Tanujairam123/Tanujairam123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer who loves coding and contributing to open-source projects. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Whatsapp userbots
+- 🌱 I’m currently learning about the world 🌎
+- 👯 I’m looking to collaborate on any project 
+- 💬 Ask me about anything, I'm happy to help!
+- 📫 How to reach me: [Email Tanujairam](mailto:tanujairamtanu@gmail.com.com)
+- ⚡ Fun fact: I love coffee ☕
 
-- 🔭 I’m currently working on Telegram
-- 🌱 I’m currently learning Coading
-- 👯 I’m looking to collaborate on Telegram bot
-- 🤔 I’m looking for help with Leech bot
-- 💬 Ask me about bots
-- 📫 How to reach me: Telegram
-- 😄 Pronouns: Friend in need is a friend indeed
-- ⚡ Fun fact: You have to kiss lot of frogs to meet a princess
---> <h1 align="center">𝙃𝙞 𝙐𝙣𝙠𝙞𝙡! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="20px"> &nbsp; &nbsp; 𝕀'𝕞 𝕋𝕒𝕟𝕦𝕛𝕒𝕚𝕣𝕒𝕞</h1> <img align='right' src="https://media.giphy.com/media/T4tPJEgs2FEFq/giphy.gif?cid=ecf05e47qhbjlap43ddrrabq9fr2p627llne685nvyrb7drn&rid=giphy.gif&ct=s" width="230">
+### Languages and Tools:
+<!-- Add your favorite programming languages and tools here -->
+![HTML](https://img.shields.io/badge/HTML-5F4E0E?style=flat&logo=html5&style=dark)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&style=dark)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&style=dark)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&style=dark)
 
-<br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Tanujairam123}/count.svg"/></p>
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanujairam-TG&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php">
-  <a href="https://github.com/Tanujairam123">
- 
-   </a>
-</details>
-  <a href="https://github.com/Tanujairam-TG">
-    <p align="center">
-        <img height="175px" src="https://github-readme-stats.vercel.app/api?username=Tanujairam-TG&count_private=False&show_icons=true&title_color=30F229&icon_color=F2F407&text_color=F9F9F9&bg_color=1F222E&hide_border=true"
-    </p>
-  </a> 
-  
-  <a href="http://www.github.com/Tanujairam-Tg">
-    <p allign="centre">
-    <img height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanujairam-Tg&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" 
-         </p>
-       </a>
-  
+### GitHub Stats (in dark theme):
+<!-- Add your GitHub stats using https://github.com/anuraghazra/github-readme-stats -->
+![Tanujairam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanujairam-TG&show_icons=true&theme=dark)
+
+### Connect with me:
+<!-- Add your social media and contact links here -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&style=dark)](https://www.linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&style=dark)](https://twitter.com/your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9E20E8?style=flat&style=dark)](https://your-portfolio.com)
+
+### Visitors Count:
+<!-- Add the visitor badge in dark theme -->
+![Visitors](https://profile-counter.glitch.me/{Tanujairam123}/count.svg)
+
+Feel free to explore my repositories and don't hesitate to reach out!
