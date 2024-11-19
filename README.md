@@ -18,7 +18,7 @@ I'm a passionate developer who loves coding and contributing to open-source proj
 
 ### GitHub Stats (in dark theme):
 <!-- Add your GitHub stats using https://github.com/anuraghazra/github-readme-stats -->
-![Tanujairam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanujairam-TG&show_icons=true&theme=dark)
+![Tanujairam's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanujairamV&show_icons=true&theme=dark)
 
 ### Connect with me:
 <!-- Add your social media and contact links here -->
