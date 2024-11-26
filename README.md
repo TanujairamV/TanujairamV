@@ -39,7 +39,7 @@ I'm a passionate developer who loves coding and contributing to open-source proj
 
 ### Visitors Count:
 <!-- Add the visitor badge in dark theme -->
-![Visitors](https://profile-counter.glitch.me/Tanujairam123/count.svg)
+![Visitors](https://profile-counter.glitch.me/TanujairamV/count.svg)
 
 ### Connect with me:
 <!-- Add your social media and contact links here -->
