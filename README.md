@@ -6,7 +6,7 @@ I'm a passionate developer who loves coding and contributing to open-source proj
 - 🌱 I’m currently learning about the world 🌎
 - 👯 I’m looking to collaborate on any project 
 - 💬 Ask me about anything, I'm happy to help!
-- ⚡ Fun fact: I love coffee ☕
+- ⚡ Fun fact: I love Kang other codes.
 
 ### Typing Animation
 <!-- Add a typing effect to make it more interactive -->
@@ -43,9 +43,9 @@ I'm a passionate developer who loves coding and contributing to open-source proj
 
 ### Connect with me:
 <!-- Add your social media and contact links here -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/your-handle)
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/your-username)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/your-user-id)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/tanujairam.v)
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/Tanujairam)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/Tanujairam)
 [![Email](https://img.shields.io/badge/Email-6200EE?style=flat&logo=gmail&logoColor=white)](mailto:tanujairam.v@gmail.com)
 
 Feel free to explore my repositories and don't hesitate to reach out!
