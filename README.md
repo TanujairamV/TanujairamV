@@ -104,6 +104,9 @@ Welcome to my GitHub universe! I'm a **passionate developer** who thrives on cod
 
 ---
 
+[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31yjqug3izszl6wvvrycikmnedpy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)]]
+
+---
 ### 🎉 One Last Thing
 <p align="center">
   <i>"Code is like humor: when you have to explain it, it’s bad." – Cory House</i>
