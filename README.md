@@ -1,5 +1,6 @@
+<!-- Header -->
 # 👋 Hey, I'm Tanujairam! 🚀
-
+<br />
 Welcome to my GitHub universe! I'm a **passionate developer** who thrives on coding, contributing to open-source, and exploring the wild world of tech. Buckle up and explore my repos—you might find something to Kang! 😉
 
 - 🔭 **Currently Hacking On**: WhatsApp userbots that are smarter than your average bot.  
@@ -19,6 +20,7 @@ Welcome to my GitHub universe! I'm a **passionate developer** who thrives on cod
 
 ---
 
+<!-- Tech Stack -->
 ### 🛠️ Languages & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -26,34 +28,26 @@ Welcome to my GitHub universe! I'm a **passionate developer** who thrives on cod
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <br />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=yellow" alt="Linux" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
-
 ---
 
+<!-- Spotlight Projects -->
 ### 🌟 Spotlight Projects
 <p align="center">
   <a href="https://github.com/TanujairamV/WhatsApp-Userbot">
-    <img src="https://img.shields.io/badge/WhatsApp_Userbot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Userbot" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TanujairamV&repo=WhatsApp-Userbot&theme=radical&bg_color=0D1117&title_color=6200EE&icon_color=BB86FC&hide_border=true" alt="WhatsApp Userbot Project" />
   </a>
-  <br />
-  A feature-packed WhatsApp userbot with automation, fun commands, and a sprinkle of chaos. Kang it, tweak it, love it!  
-</p>
-<p align="center">
-  <a href="https://github.com/TanujairamV/Your-Project-Name">
-    <img src="https://img.shields.io/badge/Project_X-6200EE?style=for-the-badge&logo=github&logoColor=white" alt="Project X" />
-  </a>
-  <br />
-  [Add your next awesome project here!] Work in progress, but it’s gonna be legendary. Stay tuned! 🚧  
+  <!-- You can add more pinned repositories here -->
 </p>
 
 ---
 
+<!-- GitHub Stats -->
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TanujairamV&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6200EE&icon_color=BB86FC" alt="GitHub Stats" width="420" />
@@ -62,6 +56,7 @@ Welcome to my GitHub universe! I'm a **passionate developer** who thrives on cod
 
 ---
 
+<!-- Contribution Graph -->
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/TanujairamV/TanujairamV/output/snake.svg" alt="Contribution Snake" />
@@ -69,6 +64,7 @@ Welcome to my GitHub universe! I'm a **passionate developer** who thrives on cod
 
 ---
 
+<!-- GitHub Streak -->
 ### 🔥 GitHub Contribution Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanujairamV&theme=radical&hide_border=true&background=0D1117&stroke=6200EE&ring=BB86FC&fire=FF4500&currStreakNum=BB86FC" alt="GitHub Streak" />
@@ -76,6 +72,7 @@ Welcome to my GitHub universe! I'm a **passionate developer** who thrives on cod
 
 ---
 
+<!-- Visitor Count -->
 ### 👀 Visitor Count
 <p align="center">
   <img src="https://profile-counter.glitch.me/TanujairamV/count.svg" alt="Visitors" />
@@ -83,6 +80,7 @@ Welcome to my GitHub universe! I'm a **passionate developer** who thrives on cod
 
 ---
 
+<!-- Socials -->
 ### 📬 Connect with Me
 <p align="center">
   <a href="https://www.instagram.com/tanujairam.v">
@@ -91,9 +89,8 @@ Welcome to my GitHub universe! I'm a **passionate developer** who thrives on cod
   <a href="https://t.me/Tanujairam">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://discord.com/users/Tanujairam">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
-  </a>
+  <!-- Discord username: Tanujairam -->
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
   <a href="mailto:tanujairam.v@gmail.com">
     <img src="https://img.shields.io/badge/Email-6200EE?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -104,9 +101,17 @@ Welcome to my GitHub universe! I'm a **passionate developer** who thrives on cod
 
 ---
 
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31yjqug3izszl6wvvrycikmnedpy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)]]
+<!-- Now Playing -->
+### 🎧 Now Playing on Spotify
+<p align="center">
+  <a href="https://open.spotify.com/user/31yjqug3izszl6wvvrycikmnedpy">
+    <img src="https://tanuapi.vercel.app/api/svg" alt="Now Playing on Spotify" />
+  </a>
+</p>
 
 ---
+
+<!-- Footer -->
 ### 🎉 One Last Thing
 <p align="center">
   <i>"Code is like humor: when you have to explain it, it’s bad." – Cory House</i>
