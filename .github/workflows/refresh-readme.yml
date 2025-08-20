@@ -1,0 +1,21 @@
+name: Refresh Now Playing
+
+on:
+  schedule:
+    - cron: "*/1 * * * *" # every 10 min
+  workflow_dispatch: # allow manual trigger
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update README
+        run: |
+          ts=$(date +%s)
+          sed -i "s/cache_bust=[0-9A-Za-z]*/cache_bust=$ts/" README.md
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git commit -am "refresh now playing ($ts)" || echo "No changes"
+          git push
