@@ -105,7 +105,7 @@ Welcome to my GitHub universe! I'm a **passionate developer** who thrives on cod
 ### 🎧 Now Playing on Spotify
 <p align="center">
   <a href="https://open.spotify.com/user/31yjqug3izszl6wvvrycikmnedpy">
-    <img src="https://tanuapi.vercel.app/api/svg?cache_bust=1763662827" alt="Now Playing on Spotify" />
+    <img src="https://tanuapi.vercel.app/api/svg?cache_bust=1763664827" alt="Now Playing on Spotify" />
   </a>
 </p>
 
