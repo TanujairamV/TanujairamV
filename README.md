@@ -12,7 +12,7 @@ Welcome to my GitHub universe! I'm a **passionate developer** who thrives on cod
 <p align="center">
   <table>
     <tr>
-      <td><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" /></td>
+      <td><img src="https://media.giphy.com/amedia/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" /></td>
       <td><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=800&color=6200EE&center=true&vCenter=true&width=650&lines=Code+is+my+Canvas;Open-Source+is+my+Playground;Kanging+Code+with+Love;Exploring+the+Tech+Universe" alt="Typing SVG" /></td>
     </tr>
   </table>
@@ -58,9 +58,24 @@ Welcome to my GitHub universe! I'm a **passionate developer** who thrives on cod
 
 <!-- Contribution Graph -->
 ### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TanujairamV/TanujairamV/output/snake.svg" alt="Contribution Snake" />
-</p>
+<div align="center">
+  <a href="https://github.com/TanujairamV">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TanujairamV/TanujairamV/refs/heads/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TanujairamV/TanujairamV/refs/heads/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TanujairamV/TanujairamV/refs/heads/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
+---
+
+<!-- Pacman Contribution Graph -->
+### 🕹️ Pacman Contribution Graph
+<div align="center">
+  <a href="https://github.com/TanujairamV">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/TanujairamV/TanujairamV/refs/heads/output/pacman-contribution-graph.svg">
+  </a>
+</div>
 
 ---
 
