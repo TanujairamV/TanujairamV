@@ -1,42 +1,35 @@
 name: generate animation
 
 on:
-  # run automatically every 7 days
+  # run weekly (every 7 days – Sunday)
   schedule:
-    - cron: "0 0 */7 * *" 
-  
-  # allows to manually run the job at any time
+    - cron: "0 0 * * 0"
+
+  # manual trigger
   workflow_dispatch:
-  
-  # run on every push on the master branch
+
+  # run on push to master
   push:
     branches:
-    - main
-    - master
-    
+      - master
+
 jobs:
   generate:
-    permissions: 
+    permissions:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    
+
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
+      - name: Generate Catppuccin Mocha snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#89b4fa&color_dots=#313244,#45475a,#585b70,#6c7086,#7f849c
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#89b4fa&color_dots=#313244,#45475a,#585b70,#6c7086,#7f849c
+            dist/snake-catppuccin-mocha.svg
+            dist/snake-catppuccin-mocha-dark.svg?background=1e1e2e&color_snake=cba6f7&color_dots=45475a,585b70,6c7086,9399b2
 
-      - name: generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-        
-      - name: push to the output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
