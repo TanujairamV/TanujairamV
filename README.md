@@ -111,7 +111,7 @@ Hey, I’m **Tanujairam** —an **Arch Linux** user who enjoys building clean, m
 
 <p align="center">
   <a href="https://open.spotify.com/user/31yjqug3izszl6wvvrycikmnedpy">
-    <img src="https://tanuapi.vercel.app/api/svg?cache_bust=1767739971" alt="Now Playing on Spotify" />
+    <img src="https://tanuapi.vercel.app/api/svg?cache_bust=1767741918" alt="Now Playing on Spotify" />
   </a>
 </p>
 
