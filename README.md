@@ -128,14 +128,11 @@ Hey, I’m **Tanujairam** —an **Arch Linux** user who enjoys building clean, m
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/TanujairamV/TanujairamV/b6eefab50a019c38cfdfb3f9d1a923a1b33aab12/snake-catppuccin-mocha-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/TanujairamV/TanujairamV/b6eefab50a019c38cfdfb3f9d1a923a1b33aab12/snake-catppuccin-mocha.svg" />
-    <img alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/TanujairamV/TanujairamV/b6eefab50a019c38cfdfb3f9d1a923a1b33aab12/snake-catppuccin-mocha.svg" />
+      srcset="https://tanujairamv.github.io/TanujairamV/snake-catppuccin-mocha-dark.svg" />
+    <img alt="GitHub contribution snake"
+      src="https://tanujairamv.github.io/TanujairamV/snake-catppuccin-mocha.svg" />
   </picture>
 </div>
-
 
 
 <h2>
