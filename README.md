@@ -126,12 +126,11 @@ Hey, I’m **Tanujairam** —an **Arch Linux** user who enjoys building clean, m
 </h2>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://tanujairamv.github.io/TanujairamV/snake-catppuccin-mocha-dark.svg" />
-    <img alt="GitHub contribution snake"
-      src="https://tanujairamv.github.io/TanujairamV/snake-catppuccin-mocha.svg" />
-  </picture>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TanujairamV/TanujairamV/refs/heads/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TanujairamV/TanujairamV/refs/heads/output/pacman-contribution-graph-light.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TanujairamV/TanujairamV/refs/heads/output/pacman-contribution-graph-light.svg">
+</picture>
 </div>
 
 
